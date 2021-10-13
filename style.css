@@ -1,0 +1,27 @@
+.done {
+  color: red;
+}
+
+.not-done {
+  color: green;
+}
+.element {
+  display: flex;
+  flex-direction: row;
+  border: black solid 1px;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+.todos {
+  background-color: aquamarine;
+}
+.todos h1 {
+  text-align: center;
+}
+.todos_hed {
+  display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    background-color: cadetblue;
+}
